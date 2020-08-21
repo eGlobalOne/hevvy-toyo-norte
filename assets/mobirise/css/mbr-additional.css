@@ -1025,6 +1025,12 @@ section.lazy-placeholder:after {
 .cid-s26VvYJr1l .dropdown-item:hover {
   color: #767676 !important;
 }
+@media (max-width: 767px) {
+  .cid-s26VvYJr1l .menu-logo .navbar-brand .navbar-logo img {
+    height: auto !important;
+    width: 80%;
+  }
+}
 .cid-s8dW93bORP {
   padding-top: 105px;
   padding-bottom: 45px;
