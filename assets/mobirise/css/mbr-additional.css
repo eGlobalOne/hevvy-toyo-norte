@@ -1625,6 +1625,12 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
+@media (max-width: 767px) {
+  .cid-s282Tqe4Pp .logo-tecfluid img {
+    height: auto !important;
+    width: 100% !important;
+  }
+}
 .cid-s282vtOIQA {
   padding-top: 15px;
   padding-bottom: 15px;

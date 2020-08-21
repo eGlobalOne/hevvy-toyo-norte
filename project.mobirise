@@ -1509,6 +1509,12 @@
                   "justify-content": "center"
                 }
               }
+            },
+            "@media (max-width: 767px)": {
+              ".logo-tecfluid img": {
+                "height": "auto !important",
+                "width": "100% !important"
+              }
             }
           },
           "_name": "footer1",
