@@ -1030,6 +1030,12 @@ section.lazy-placeholder:after {
     height: auto !important;
     width: 80%;
   }
+  .cid-s26VvYJr1l ul {
+    column-count: 2;
+  }
+  .cid-s26VvYJr1l img {
+    height: 2.8rem !important;
+  }
 }
 .cid-s8dW93bORP {
   padding-top: 105px;
@@ -1686,13 +1692,4 @@ section.lazy-placeholder:after {
   display: block;
   width: 40px;
   margin-bottom: 15px;
-}
-.cid-s9gamus7Fs {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-s9gamus7Fs .mbr-text,
-.cid-s9gamus7Fs blockquote {
-  color: #767676;
 }
