@@ -1131,7 +1131,7 @@ section.lazy-placeholder:after {
 }
 .cid-s81QGumGB2 .mbr-section-subtitle {
   color: #ffffff;
-  text-align: left;
+  text-align: center;
 }
 .cid-s9gaUR88Wp {
   padding-top: 60px;
@@ -1546,6 +1546,21 @@ section.lazy-placeholder:after {
 .cid-s4KS0lJitI H1 {
   color: #ffffff;
 }
+#custom-html-21 {
+  /* Type valid CSS here */
+}
+#custom-html-21 div {
+  padding: 40px 0;
+  color: #ffffff;
+  text-align: center;
+}
+#custom-html-21 p {
+  font-size: 60px;
+  color: #777;
+}
+#custom-html-21 div {
+  background-color: #005db4;
+}
 .cid-s282Tqe4Pp {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1664,4 +1679,17 @@ section.lazy-placeholder:after {
   padding-top: 15px;
   padding-bottom: 15px;
   background-color: #232323;
+}
+#custom-html-26 {
+  /* Type valid CSS here */
+}
+#custom-html-26 .follow-contact {
+  position: fixed;
+  right: 15px;
+  bottom: 0;
+}
+#custom-html-26 .follow-contact img {
+  display: block;
+  width: 40px;
+  margin-bottom: 15px;
 }
